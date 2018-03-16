@@ -10,4 +10,4 @@ You can view something interesting or useful personal reading notes, mostly, the
 
 Having trouble with Pages? send emais to me, and i will reply to you as soon as possible.
 
-emmails : arbboter@gmail.com
+emails : arbboter@gmail.com
