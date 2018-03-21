@@ -1,4 +1,4 @@
-# 条款 2：尽量用`<iostream>`而不用`<stdio.h>`
+# 条款 2：尽量用 <iostream> 而不用 <stdio.h>
 
 ## 0.总则
 

@@ -1,4 +1,4 @@
-# 条款 3：尽量用`new`和`delete`而不用`malloc`和`free`
+# 条款 3：尽量用 new 和 delete 而不用 malloc 和 free
 
 ## 0. 总则
 
